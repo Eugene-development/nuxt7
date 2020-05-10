@@ -1,0 +1,19 @@
+<template>
+    <section>
+      <H1>О нас</H1>
+
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab atque dolores dolorum eius est expedita illo, in incidunt mollitia nam nisi nobis, non officiis porro possimus, provident quidem quod reprehenderit saepe unde. Aspernatur consequuntur cumque dolorem dolores eligendi exercitationem ipsam labore laboriosam laudantium, magnam modi neque nesciunt, nulla odio, omnis sapiente voluptatum! Accusamus aliquid blanditiis delectus esse hic pariatur porro possimus repudiandae, sapiente tempore! Aspernatur autem consectetur enim eos inventore ipsam ipsum iste magni nisi non pariatur quia quod, repellendus similique sit, unde ut! Ab, accusantium alias animi aspernatur assumenda commodi consequatur cumque deleniti ea eaque eos illo ipsum iure natus nisi nobis, odit optio praesentium provident quia quidem quo reiciendis repellat sunt tempora vel veniam. Assumenda ea earum excepturi exercitationem impedit libero maxime molestias optio quidem suscipit. A aspernatur autem blanditiis commodi earum eius error excepturi fugiat laudantium magni minus nam necessitatibus optio quo rerum, sit soluta tempora vitae! A accusantium aperiam at, consequatur dolore doloribus esse eveniet excepturi explicabo facilis ipsum officiis optio quas quo reprehenderit tempore totam velit voluptatem. Aspernatur assumenda autem dolore dolores eaque earum eius error illo, nesciunt, officia placeat porro quia quos ratione saepe sit, voluptatibus voluptatum. Accusamus consequuntur impedit inventore iusto, perferendis vero?</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab atque dolores dolorum eius est expedita illo, in incidunt mollitia nam nisi nobis, non officiis porro possimus, provident quidem quod reprehenderit saepe unde. Aspernatur consequuntur cumque dolorem dolores eligendi exercitationem ipsam labore laboriosam laudantium, magnam modi neque nesciunt, nulla odio, omnis sapiente voluptatum! Accusamus aliquid blanditiis delectus esse hic pariatur porro possimus repudiandae, sapiente tempore! Aspernatur autem consectetur enim eos inventore ipsam ipsum iste magni nisi non pariatur quia quod, repellendus similique sit, unde ut! Ab, accusantium alias animi aspernatur assumenda commodi consequatur cumque deleniti ea eaque eos illo ipsum iure natus nisi nobis, odit optio praesentium provident quia quidem quo reiciendis repellat sunt tempora vel veniam. Assumenda ea earum excepturi exercitationem impedit libero maxime molestias optio quidem suscipit. A aspernatur autem blanditiis commodi earum eius error excepturi fugiat laudantium magni minus nam necessitatibus optio quo rerum, sit soluta tempora vitae! A accusantium aperiam at, consequatur dolore doloribus esse eveniet excepturi explicabo facilis ipsum officiis optio quas quo reprehenderit tempore totam velit voluptatem. Aspernatur assumenda autem dolore dolores eaque earum eius error illo, nesciunt, officia placeat porro quia quos ratione saepe sit, voluptatibus voluptatum. Accusamus consequuntur impedit inventore iusto, perferendis vero?</p>
+    </section>
+</template>
+
+<script>
+    export default {
+        name: "about",
+      middleware: ['auth']
+    }
+</script>
+
+<style scoped>
+
+</style>
